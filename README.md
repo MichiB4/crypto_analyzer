@@ -16,7 +16,7 @@ For the HSG course "Programming with Advanced Computer Languages".
 - [Error Handling](#error-handling)
 - [Troubleshooting](#troubleshooting)
 
-# What This Program Does
+## What This Program Does
 
 This tool helps you analyze cryptocurrency market data.
 
